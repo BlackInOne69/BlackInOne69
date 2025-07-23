@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Pawan Poudel Sharma
 
-<!--
-**BlackInOne69/BlackInOne69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Frontend Developer | React.js | JavaScript | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+📍 Bharatpur, Nepal  
+🌐 [Portfolio Website](https://pawanpoudelsharma.com.np)  
+📧 pawan.sharma9845@gmail.com  
+📞 +977 9842428938  
+💻 [GitHub](https://github.com/BlackInOne69)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+I’m a frontend developer passionate about crafting modern, responsive, and user-friendly interfaces. I specialize in **HTML**, **CSS**, **JavaScript**, and **React.js**, with a strong grasp of UI/UX design principles. Currently pursuing a Bachelor's in Computer System & IT (BCSIT), I am eager to contribute to collaborative projects and grow as a developer.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Technologies:** HTML, CSS, JavaScript  
+- **Frameworks/Libraries:** React.js, Tailwind CSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Canva  
+- **Other Skills:** Responsive Web Design, API Integration, UI/UX Design
+
+---
+
+## 📁 Projects
+
+### 🔹 [Personal Portfolio Website](https://pawanpoudelsharma.com.np)  
+React.js-based personal site to showcase my projects, skills, and achievements.
+
+### 🔹 [Leave Management System](https://github.com/Bibekp025/Leave-Management-System)  
+Full-stack web app built with Django and SQLite. I contributed to the frontend using HTML, CSS, and JavaScript, with a role-based dashboard interface.
+
+---
+
+## 🎯 Career Objective
+
+To become a skilled frontend developer, creating accessible, high-performance web applications that deliver excellent user experiences and align with industry standards.
+
+---
+
+## 📫 Let's Connect
+
+Feel free to connect, collaborate, or reach out regarding frontend development or tech projects!
+
